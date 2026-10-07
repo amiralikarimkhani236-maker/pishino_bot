@@ -1,0 +1,9 @@
+pishino.db
+bot_backup.py
+bot_backup2.py
+bot_before_claude.py
+bot_broken.py
+bot_full_backup.py
+bot_safe.py
+bot_working_backup.py
+__pycache__/
